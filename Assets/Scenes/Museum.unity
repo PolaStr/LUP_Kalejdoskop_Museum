@@ -15672,7 +15672,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1468591611}
-  destination: {fileID: 599794808}
+  destination: {fileID: 1688866795}
   VRplayer: {fileID: 1468591608}
 --- !u!65 &1742105617
 BoxCollider:
@@ -17167,7 +17167,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1468591611}
-  destination: {fileID: 164202411}
+  destination: {fileID: 1371282012}
   VRplayer: {fileID: 1468591608}
 --- !u!65 &1871015678
 BoxCollider:
